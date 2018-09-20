@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contact Manager
 
 
@@ -13,3 +14,8 @@ This app uses React Bootstrap, font-awesome for icons ...
 #Installing
 
 Download the files and open the Cmd/GitBash and use an npm install to install all the node_modules 
+=======
+# contactmanager
+
+# Work In Progress!
+>>>>>>> aeeeb17699e23d159680455d510b13f007113e9e
