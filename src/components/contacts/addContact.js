@@ -56,6 +56,8 @@ class AddContact extends Component {
       phone: '',
       errors: {}
     });
+
+    this.props.history.push('/');
   };
 
   onChange = e =>
